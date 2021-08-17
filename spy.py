@@ -26,7 +26,7 @@ while i < 255:
 
     cv2.imshow('image',Fra)			
 
-    i = i +2
+    i = i + 1 # 1 or 2 
 
     k = cv2.waitKey(10)	
 
